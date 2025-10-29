@@ -1,2 +1,2 @@
-# my-first-projects
+# Conditional functions - exercises
 My first repository to learn and practice
